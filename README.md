@@ -15,7 +15,7 @@ then it will be compiled!!1! XDDD
 
 you can just type in a shell prompt:
 
-```chmod +x run.sh```
-
-```./run.sh```
+`chmod +x run.sh`
+and then
+`./run.sh`
 
