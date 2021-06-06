@@ -16,6 +16,6 @@ then it will be compiled!!1! XDDD
 you can just type in a shell prompt:
 
 ```chmod +x run.sh```
-and
+
 ```./run.sh```
 
